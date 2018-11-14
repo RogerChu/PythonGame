@@ -1,4 +1,4 @@
 # RetroSnake
 
 A final project I made after Python course.
-![Alt Text](/RetroSnake)
+![Alt Text](/RetroSnake.png)
